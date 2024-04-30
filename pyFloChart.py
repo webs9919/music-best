@@ -12,7 +12,7 @@ from datetime import datetime
 
 # 현재 날짜 가져오기
 current_date = datetime.now().strftime("%Y-%m-%d")
-filename = f"flo100_{current_date}.json"
+filename = f"flo/flo100_{current_date}.json"
 
 # 웹 드라이버 초기화 및 페이지 로드
 options = ChromeOptions()
