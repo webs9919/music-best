@@ -51,7 +51,7 @@ for song in songs_list:
         'title': title,
         'artist': artist,
         'album': album,
-        'image_url': image_url
+        'imageURL': image_url
     })
   
 # 추출된 데이터를 JSON 파일로 저장
