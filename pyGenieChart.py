@@ -26,7 +26,7 @@ def get_chart_data(url):
             "rank": rank,
             "title": title,
             "artist": artist,
-            "imageUrl": image_url,
+            "imageURL": image_url,
             "album": album
         })
 
